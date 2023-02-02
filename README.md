@@ -1,4 +1,4 @@
-Setting > Pages > Source : Github Action > Select > click ....yml > run workflow > wait until link there 
+Setting > Pages > Source : Github Action > Select > click ....yml > view run > run workflow > wait until link there 
 
 ## Open in browser :
 https://islamicity.github.io/limo/
